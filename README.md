@@ -73,22 +73,20 @@ The flight data was collected from the [Bureau of Transportation Statistics (BTS
 ### Install Dependencies
 
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
 
-## Run the Notebook
+Run the Notebook
 Open the flight_delay_prediction.ipynb notebook in Google Colab or Jupyter and follow the steps to reproduce the analysis.
 
-## 🤝 Contributing
+🤝 Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
-## 🔐 Ethical Considerations
+🔐 Ethical Considerations
 The dataset is public and anonymized.
 
 The project was reviewed and approved by UWE Bristol’s Ethics Committee.
 
 Care was taken to ensure fairness and transparency in the model predictions.
 
-## 📄 License
+📄 License
 This project is licensed under the MIT License.
-
-## Built with ❤️ by [Your Name]
