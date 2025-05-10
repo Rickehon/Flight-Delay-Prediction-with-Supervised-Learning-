@@ -73,7 +73,7 @@ The flight data was collected from the [Bureau of Transportation Statistics (BTS
 ### Install Dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
 ## Run the Notebook
 Open the flight_delay_prediction.ipynb notebook in Google Colab or Jupyter and follow the steps to reproduce the analysis.
